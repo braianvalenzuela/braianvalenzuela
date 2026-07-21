@@ -3,11 +3,6 @@
 <h1>✨ Braian De Jesús Valenzuela ✨</h1>
 </div>
 
-<!-- ============================= -->
-<!--          SOBRE MÍ             -->
-<!-- ============================= -->
-
-<div align="center">
 <h2>👨‍💻 Sobre mí</h2>
 <p>
 Estudiante de la <strong>Tecnicatura Superior en Análisis de Sistemas</strong>,
@@ -97,16 +92,6 @@ mediante herramientas tecnológicas.
 </li>
 </ul>
 
-
-
-
-
-
-
-
-
-
-
 <h2>🔗 Contacto Profesional<h2/>
 <a href="mailto:braiandejesusvalenzuela@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -120,12 +105,6 @@ mediante herramientas tecnológicas.
 <a href="https://github.com/braianvalenzuela">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-## Sobre Mí
-
-Estudiante de la Tecnicatura Superior en Análisis de Sistemas,
-enfocado en desarrollo de software, desarrollo web y resolución de problemas
-mediante herramientas tecnológicas y en el aprendizaje de nuevas tecnologías.
 
 ---
 
