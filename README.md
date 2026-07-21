@@ -45,6 +45,7 @@ Actualmente trabajando en la organización y publicación de:
 📧 Email: braiandejesusvalenzuela@gmail.com
 
 💼 LinkedIn: www.linkedin.com/in/braian-valenzuela-dejesus
+[![LinkedIn](https://shields.io)](www.linkedin.com/in/braian-valenzuela-dejesus)
 
 🌐 Portfolio: Próximamente
 
