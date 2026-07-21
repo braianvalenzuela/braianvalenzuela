@@ -10,7 +10,7 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-![HTML5]
+![HTML5](https://shields.io)
 ![CSS3]
 ![Python]
 ![SQL]
