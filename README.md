@@ -2,7 +2,6 @@
 <h1>
   ✨ Braian De Jesús Valenzuela ✨
 </h1>
-
 <div align="center">
 <h2>🔗 Contacto profesional</h2>
 </div>
@@ -20,7 +19,6 @@
 <a href="#">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
-
 </div>
 
 
