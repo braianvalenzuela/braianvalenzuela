@@ -40,6 +40,30 @@ mediante herramientas tecnológicas.
  ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 👨‍💻 Sobre mí
+
+Estudiante de la **Tecnicatura Superior en Análisis de Sistemas**, orientado al desarrollo de software, desarrollo web y resolución de problemas mediante herramientas tecnológicas.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 Actualmente
+
+- 🎓 2.º año de la carrera
+- 💻 Desarrollando proyectos académicos
+- 🌱 Aprendiendo Angular
+- 🤝 Participando en un proyecto colaborativo
+
+</td>
+</tr>
+</table>
+
+
 ## 📚 Formación
 
 🎓 Tecnicatura Superior en Análisis de Sistemas  
