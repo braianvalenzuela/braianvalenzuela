@@ -10,13 +10,13 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-- Python
-- SQL
-- HTML
-- CSS
-- Git
-- GitHub
-- Angular (en formación)
+![HTML5]
+![CSS3]
+![Python]
+![SQL]
+![Git]
+![GitHub]
+![Angular]
 
 ---
 
