@@ -46,6 +46,7 @@ Actualmente trabajando en la organización y publicación de:
 
 💼 LinkedIn: www.linkedin.com/in/braian-valenzuela-dejesus
 [![LinkedIn](https://shields.io)](www.linkedin.com/in/braian-valenzuela-dejesus)
+[![LinkedIn Badge](https://shields.io)](www.linkedin.com/in/braian-valenzuela-dejesus)
 
 🌐 Portfolio: Próximamente
 
