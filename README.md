@@ -98,4 +98,5 @@ mediante herramientas tecnológicas.
 
 
 
-<img width="100" height="100" alt="imagen" src="https://github.com/user-attachments/assets/33fdb97b-2bab-4c4c-841f-a2d2e272e879" />
+<img width="80" height="80" alt="imagen" src="https://github.com/user-attachments/assets/3b305752-c440-4b3d-a4c7-24891300c164" />
+
