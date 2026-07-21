@@ -17,6 +17,7 @@
 ![Git]
 ![GitHub]
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)![Angular]
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -44,11 +45,9 @@ Actualmente trabajando en la organización y publicación de:
 
 ## 📫 Contacto
 
-📧 Email: braiandejesusvalenzuela@gmail.com
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) braiandejesusvalenzuela@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/braian-valenzuela-dejesus
-[![LinkedIn](https://shields.io)](www.linkedin.com/in/braian-valenzuela-dejesus)
-[![LinkedIn Badge](https://shields.io)](www.linkedin.com/in/braian-valenzuela-dejesus)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) www.linkedin.com/in/braian-valenzuela-dejesus
 
 🌐 Portfolio: Próximamente
 
