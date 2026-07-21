@@ -4,7 +4,7 @@
   ✨ Braian De Jesús Valenzuela ✨
 </h1>
 
-<h2>🔗 Contacto profesional</h2>
+<h2>🔗 Contacto Profesional</h2>
 <a href="mailto:braiandejesusvalenzuela@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -18,11 +18,8 @@
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 </div>
-</div>
 
-
-
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías
 
  ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,8 +33,6 @@
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-
 
 ## 📚 Formación
 
