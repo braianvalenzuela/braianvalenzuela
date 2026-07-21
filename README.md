@@ -2,6 +2,7 @@
 <h1>
   ✨ Braian De Jesús Valenzuela ✨
 </h1>
+  
 <div align="center">
 <h2>🔗 Contacto profesional</h2>
 <hr style="height:4px;border:none;background-color:#30363d;">
