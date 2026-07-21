@@ -19,6 +19,8 @@
 </a>
 </div>
 
+---
+
 ## 🛠️ Tecnologías
 
  ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
