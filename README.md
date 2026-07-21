@@ -6,6 +6,17 @@
 
 🚀 Mi objetivo es seguir creciendo profesionalmente dentro del área tecnológica, aplicando mis conocimientos y aprendiendo nuevas herramientas.
 
+# 👋 Hola, soy Braian De Jesús Valenzuela
+
+Estudiante de Análisis de Sistemas | Futuro Desarrollador Web
+
+<p align="center">
+
+Badge Gmail   Badge LinkedIn   Badge GitHub   Badge Portfolio
+
+</p>
+
+
 ---
 
 ## 🛠️ Tecnologías y herramientas
