@@ -4,9 +4,6 @@
   ✨ Braian De Jesús Valenzuela ✨
 </h1>
 
-<hr style="height:5px;border:none;background-color:#30363d;">
-
-<div align="center">
 <h2>🔗 Contacto profesional</h2>
 <a href="mailto:braiandejesusvalenzuela@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
