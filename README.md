@@ -17,6 +17,11 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+## Sobre Mí
+
+Estudiante de la Tecnicatura Superior en Análisis de Sistemas,
+enfocado en desarrollo de software, desarrollo web y resolución de problemas
+mediante herramientas tecnológicas.
 
 ---
 
