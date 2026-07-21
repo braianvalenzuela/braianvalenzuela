@@ -5,8 +5,6 @@
   
 <div align="center">
 <h2>🔗 Contacto profesional</h2>
-<hr style="height:4px;border:none;background-color:#30363d;">
-
 <a href="mailto:braiandejesusvalenzuela@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
