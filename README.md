@@ -6,13 +6,44 @@
 
 🚀 Mi objetivo es seguir creciendo profesionalmente dentro del área tecnológica, aplicando mis conocimientos y aprendiendo nuevas herramientas.
 
-<h2 align="center">Perfil profesional</h2>
-<p align="center">
-Estudiante de la Tecnicatura Superior en Análisis de Sistemas,
-orientado al desarrollo de software, desarrollo web y resolución de problemas
-mediante herramientas tecnológicas.
-</p>
+<div align="center">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80"/>
+
+# Braian De Jesús Valenzuela
+
+### Analista de Sistemas en formación
+
+**Tecnicatura Superior en Análisis de Sistemas**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Área-Desarrollo%20de%20Software-1F6FEB?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Enfoque-Desarrollo%20Web-0E7490?style=for-the-badge&logo=web&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Aprendiendo-Nuevas%20Tecnologías-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+Actualmente me encuentro desarrollando proyectos académicos, personales y colaborativos relacionados con:
+
+**Programación · Desarrollo Web · Análisis de Sistemas**
+
+Mi objetivo es crecer profesionalmente dentro del área tecnológica,
+aportando soluciones, fortaleciendo mis conocimientos y aprendiendo nuevas herramientas.
+
+</div>
+
+---
 
 
 
