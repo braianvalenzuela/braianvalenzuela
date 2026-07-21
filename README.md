@@ -4,7 +4,6 @@
 </h1>
 <div align="center">
 <h2>🔗 Contacto profesional</h2>
-</div>
 <hr style="height:4px;border:none;background-color:#30363d;">
 
 <a href="mailto:braiandejesusvalenzuela@gmail.com">
