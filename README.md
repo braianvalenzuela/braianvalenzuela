@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 </div>
+---
 
 ## 🛠️ Tecnologías
 
