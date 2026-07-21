@@ -96,3 +96,6 @@ mediante herramientas tecnológicas.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+
+
+<img width="100" height="100" alt="imagen" src="https://github.com/user-attachments/assets/33fdb97b-2bab-4c4c-841f-a2d2e272e879" />
