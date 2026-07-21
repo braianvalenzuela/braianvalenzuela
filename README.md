@@ -99,67 +99,45 @@ Actualmente trabajando en la organización y publicación de:
 
 <table width="100%">
 <tr>
-
 <td width="50%" valign="top">
-
+ 
 <h2>👨‍💻 Sobre mí</h2>
-
 <p>
 Estudiante de la <strong>Tecnicatura Superior en Análisis de Sistemas</strong>,
 enfocado en el desarrollo de software, desarrollo web y resolución de problemas
 mediante herramientas tecnológicas.
 </p>
-
 </td>
 
 <td width="50%" valign="top">
-
 <h2>🎓 Formación</h2>
-
 <h3>🎓 Educación Académica</h3>
-
 <strong>Tecnicatura Superior en Análisis de Sistemas</strong><br>
 🏫 IFTS N.º 21<br>
 📍 En curso (2.º año)
-
 <br><br>
-
 <h3>📖 Formación Profesional</h3>
-
 <table>
 <tr>
-
 <td valign="top">
-
 <strong>Udemy</strong>
-
 <ul>
 <li>Angular (en formación)</li>
 </ul>
-
 </td>
-
 <td width="40"></td>
-
 <td valign="top">
-
 <strong>UTN</strong>
-
 <ul>
 <li>Microsoft Office (Excel, Word y PowerPoint)</li>
 <li>SAP</li>
 </ul>
-
 </td>
-
 </tr>
 </table>
-
 </td>
-
 </tr>
 </table>
-
 <br>
 
 <!-- ========================================= -->
@@ -168,44 +146,29 @@ mediante herramientas tecnológicas.
 
 <table width="100%">
 <tr>
-
 <td width="50%" valign="top">
-
 <h2>🛠️ Tecnologías</h2>
-
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,python,figma,git,github,gitlab,angular,mysql"/>
-
 </p>
-
 <strong>Bases de datos</strong>
-
 <ul>
 <li>Microsoft SQL Server</li>
 <li>MySQL</li>
 </ul>
-
 <strong>Gestión de proyectos</strong>
-
 <ul>
 <li>Jira</li>
 </ul>
-
 </td>
-
 <td width="50%" valign="top">
-
 <h2>📚 Proyectos</h2>
-
 <ul>
 <li>💻 Proyectos personales.</li>
 <li>🎓 Desarrollo de proyectos académicos.</li>
 <li>🤝 Participación en un proyecto colaborativo para una aplicación web destinada a ayudar a personas en situación de calle.</li>
 </ul>
-
 </td>
-
 </tr>
 </table>
 
