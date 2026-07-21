@@ -1,7 +1,5 @@
 <div align="center">
-<h1>
-  ✨ Braian De Jesús Valenzuela ✨
-<h1/>  
+<h1>✨ Braian De Jesús Valenzuela ✨<h1/>  
 <div align="center">
 <h2>🔗 Contacto profesional</h2>
 <a href="mailto:braiandejesusvalenzuela@gmail.com">
