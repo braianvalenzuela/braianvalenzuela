@@ -7,19 +7,22 @@
 🚀 Mi objetivo es seguir creciendo profesionalmente dentro del área tecnológica, aplicando mis conocimientos y aprendiendo nuevas herramientas.
 
 <p align="center">
-  <a href="mailto:braiandejesusvalenzuela@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Enviar%20Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;◆&nbsp;
-  <a href="https://www.linkedin.com/in/braian-valenzuela-dejesus">
-    <img src="https://img.shields.io/badge/LinkedIn-Braian%20Valenzuela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;◆&nbsp;
-  <a href="https://github.com/braianvalenzuela">
-    <img src="https://img.shields.io/badge/GitHub-braianvalenzuela-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="mailto:braiandejesusvalenzuela@gmail.com">
+<img src="https://img.shields.io/badge/Email-Enviar%20Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;⬩&nbsp;
+<a href="https://www.linkedin.com/in/braian-valenzuela-dejesus">
+<img src="https://img.shields.io/badge/LinkedIn-Braian%20Valenzuela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;⬩&nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Próximamente-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+&nbsp;⬩&nbsp;
+<a href="https://github.com/braianvalenzuela">
+<img src="https://img.shields.io/badge/GitHub-braianvalenzuela-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
-
 
 ---
 
