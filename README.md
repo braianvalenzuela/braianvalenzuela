@@ -3,6 +3,8 @@
 <h1>
   ✨ Braian De Jesús Valenzuela ✨
 </h1>
+</div>
+
 
 <h2>🔗 Contacto Profesional</h2>
 <a href="mailto:braiandejesusvalenzuela@gmail.com">
@@ -17,7 +19,7 @@
 <a href="#">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-</div>
+
 
 ---
 
