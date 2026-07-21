@@ -24,6 +24,39 @@ enfocado en desarrollo de software, desarrollo web y resolución de problemas
 mediante herramientas tecnológicas.
 
 ---
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>👨‍💻 Sobre mí</h2>
+
+Estudiante de la <strong>Tecnicatura Superior en Análisis de Sistemas</strong>, enfocado en el desarrollo de software, desarrollo web y resolución de problemas mediante herramientas tecnológicas.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🎓 Formación</h2>
+
+<strong>Educación Académica</strong>
+
+- Tecnicatura Superior en Análisis de Sistemas
+- IFTS N.º 21
+- En curso (2.º año)
+
+<strong>Formación Profesional</strong>
+
+| Udemy | UTN |
+|:------|:----|
+| Angular *(en formación)* | Microsoft Office |
+| | SAP |
+
+</td>
+
+</tr>
+</table>
+
 
 ## 🛠️ Tecnologías
 
