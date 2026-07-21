@@ -6,13 +6,23 @@
 
 🚀 Mi objetivo es seguir creciendo profesionalmente dentro del área tecnológica, aplicando mis conocimientos y aprendiendo nuevas herramientas.
 
-# 👋 Hola, soy Braian De Jesús Valenzuela
-
-Estudiante de Análisis de Sistemas | Futuro Desarrollador Web
-
 <p align="center">
 
-Badge Gmail   Badge LinkedIn   Badge GitHub   Badge Portfolio
+<a href="mailto:braiandejesusvalenzuela@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+&nbsp;&nbsp;│&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/braian-valenzuela-dejesus">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+&nbsp;&nbsp;│&nbsp;&nbsp;
+
+<a href="https://github.com/braianvalenzuela">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </p>
 
@@ -64,8 +74,8 @@ Actualmente trabajando en la organización y publicación de:
 ## 📫 Contacto
 
 [![Gmail](https://img.shields.io/badge/Gmail-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braiandejesusvalenzuela@gmail.com)
-                            [![LinkedIn](https://img.shields.io/badge/LinkedIn-Braian%20Valenzuela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-valenzuela-dejesus)
-      [![Portfolio](https://img.shields.io/badge/Portfolio-Web-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuportfolio.com)
-         [![GitHub](https://img.shields.io/badge/GitHub-braianvalenzuela-181717?style=for-the-badge&logo=github)](https://github.com/braianvalenzuela)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Braian%20Valenzuela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-valenzuela-dejesus)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuportfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-braianvalenzuela-181717?style=for-the-badge&logo=github)](https://github.com/braianvalenzuela)
 
 
