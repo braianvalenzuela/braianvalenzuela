@@ -16,6 +16,32 @@
 </p>
 </div>
 
+<div align="center">
+
+<h1>
+  ✨ Braian De Jesús Valenzuela ✨
+</h1>
+
+<hr style="height:5px;border:none;background-color:#30363d;">
+
+<div align="center">
+<h2>🔗 Contacto profesional</h2>
+<a href="mailto:braiandejesusvalenzuela@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/braian-valenzuela-dejesus">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/braianvalenzuela">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+</div>
+</div>
+
+
 
 ## 🛠️ Tecnologías y herramientas
 
