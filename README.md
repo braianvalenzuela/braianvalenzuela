@@ -6,6 +6,18 @@
 
 🚀 Mi objetivo es seguir creciendo profesionalmente dentro del área tecnológica, aplicando mis conocimientos y aprendiendo nuevas herramientas.
 
+<h2 align="center">Perfil profesional</h2>
+<p align="center">
+Estudiante de la Tecnicatura Superior en Análisis de Sistemas,
+orientado al desarrollo de software, desarrollo web y resolución de problemas
+mediante herramientas tecnológicas.
+</p>
+
+
+
+
+
+
 <p align="center">
 <a href="mailto:braiandejesusvalenzuela@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
