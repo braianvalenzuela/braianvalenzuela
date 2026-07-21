@@ -56,7 +56,9 @@ Actualmente trabajando en la organización y publicación de:
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) www.linkedin.com/in/braian-valenzuela-dejesus
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Braian%20Valenzuela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-valenzuela-dejesus)
+
 🌐 Portfolio: Próximamente
 
-<img width="120" height="28" alt="imagen" src="https://github.com/user-attachments/assets/dc2de35d-84f2-4edf-a885-06fe99d58c42" />
 
+<img width="120" height="28" alt="imagen" src="https://github.com/user-attachments/assets/dc2de35d-84f2-4edf-a885-06fe99d58c42" />
