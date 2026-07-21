@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1>
-  ✨ Braian De Jesús Valenzuela ✨
-</h1>
+<h1>✨ Braian De Jesús Valenzuela ✨</h1>
 </div>
 
  <h2>🔗 Contacto Profesional</h2>
