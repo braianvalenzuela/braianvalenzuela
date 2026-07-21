@@ -58,4 +58,5 @@ Actualmente trabajando en la organización y publicación de:
 
 🌐 Portfolio: Próximamente
 
+<img width="120" height="28" alt="imagen" src="https://github.com/user-attachments/assets/dc2de35d-84f2-4edf-a885-06fe99d58c42" />
 
