@@ -12,31 +12,6 @@ mediante herramientas tecnológicas.
 </div>
 <br>
 
-
-
-<h2>🔗 Contacto Profesional<h2/>
-<a href="mailto:braiandejesusvalenzuela@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/braian-valenzuela-dejesus">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://github.com/braianvalenzuela">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-
-
-
-
-
-
-
 <table width="100%">
 <tr>
 <td width="45%" valign="top">
@@ -106,3 +81,18 @@ mediante herramientas tecnológicas.
 </tr>
 
 </table>
+
+<h2>🔗 Contacto Profesional<h2/>
+<a href="mailto:braiandejesusvalenzuela@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/braian-valenzuela-dejesus">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://github.com/braianvalenzuela">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
