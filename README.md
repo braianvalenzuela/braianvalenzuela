@@ -52,15 +52,11 @@ Actualmente trabajando en la organización y publicación de:
 
 ## 📫 Contacto
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) braiandejesusvalenzuela@gmail.com
-
 [![Gmail](https://img.shields.io/badge/Gmail-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braiandejesusvalenzuela@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Braian%20Valenzuela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-valenzuela-dejesus)
 
 [![GitHub](https://img.shields.io/badge/GitHub-braianvalenzuela-181717?style=for-the-badge&logo=github)](https://github.com/braianvalenzuela)
-
-🌐 Portfolio: Próximamente
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Web-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuportfolio.com)
 
